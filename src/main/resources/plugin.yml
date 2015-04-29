@@ -1,0 +1,7 @@
+name: CodingJam
+main: com.kodingkingdom.codingjam.CodingJamPlugin
+version: 0.0.1
+softdepend: [WorldEdit, PlotMe, CrafterCoordinator, KodeBuilder]
+commands:
+   codingjam:
+   cj:
